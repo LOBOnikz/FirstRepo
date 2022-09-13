@@ -1,3 +1,4 @@
-int a=10;
-int b=45;
-print(a+b)
+a=10;
+b=45;
+c=a+b;
+print(c)
